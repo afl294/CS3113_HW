@@ -44,12 +44,12 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>C:\code\c++\libs\SDL2-2.0.7\include;C:\code\c++\libs\SDL2_image-2.0.2\include;C:\code\c++\libs\glew-2.1.0\include;C:\code\c++\libs\SDL2_mixer-2.0.2\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\SDL2\include;C:\SDL2_image\include;C:\glew\include;C:\SDL2_mixer\include</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>_WINDOWS;_MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\code\c++\libs\SDL2_mixer-2.0.2\lib\x86;C:\code\c++\libs\SDL2-2.0.7\lib\x86;C:\code\c++\libs\SDL2_image-2.0.2\lib\x86;C:\code\c++\libs\glew-2.1.0\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\SDL2_mixer\lib\x86;C:\SDL2\lib\x86;C:\SDL2_image\lib\x86;C:\glew\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL2.lib;SDL2_mixer.lib;glew32.lib;SDL2main.lib;SDL2_image.lib;OpenGL32.lib</AdditionalDependencies>
       <SubSystem>Console</SubSystem>
     </Link>
