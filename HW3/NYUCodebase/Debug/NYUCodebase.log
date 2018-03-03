@@ -1,0 +1,65 @@
+﻿Build started 2/26/2018 5:01:59 AM.
+     1>Project "C:\Users\Alex\Documents\School\Game Programming\HW3\NYUCodebase\NYUCodebase\NYUCodebase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\code\c++\libs\SDL2-2.0.7\include" /I"C:\code\c++\libs\SDL2_image-2.0.2\include" /I"C:\code\c++\libs\glew-2.1.0\include" /I"C:\code\c++\libs\SDL2_mixer-2.0.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _WINDOWS /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(56): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(57): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(181): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(182): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(187): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(267): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(294): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(320): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(324): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(332): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(601): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(602): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(705): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(706): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(786): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(787): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(799): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(809): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(827): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(832): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(847): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(848): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(853): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(875): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(891): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(895): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(929): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(942): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(948): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(955): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(969): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(987): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(992): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(999): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1008): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1017): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1021): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1026): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1031): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1039): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1040): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1075): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1079): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1103): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1154): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1186): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1190): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1266): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\alex\documents\school\game programming\hw3\nyucodebase\nyucodebase\main.cpp(1267): warning C4305: 'initializing' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alex\Documents\School\Game Programming\HW3\NYUCodebase\Debug\NYUCodebase.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\code\c++\libs\SDL2_mixer-2.0.2\lib\x86" /LIBPATH:"C:\code\c++\libs\SDL2-2.0.7\lib\x86" /LIBPATH:"C:\code\c++\libs\SDL2_image-2.0.2\lib\x86" /LIBPATH:"C:\code\c++\libs\glew-2.1.0\lib\Release\Win32" SDL2.lib SDL2_mixer.lib glew32.lib SDL2main.lib SDL2_image.lib OpenGL32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Alex\Documents\School\Game Programming\HW3\NYUCodebase\Debug\NYUCodebase.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alex\Documents\School\Game Programming\HW3\NYUCodebase\Debug\NYUCodebase.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Matrix.obj
+         Debug\ShaderProgram.obj
+         NYUCodebase.vcxproj -> C:\Users\Alex\Documents\School\Game Programming\HW3\NYUCodebase\Debug\NYUCodebase.exe
+     1>Done Building Project "C:\Users\Alex\Documents\School\Game Programming\HW3\NYUCodebase\NYUCodebase\NYUCodebase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.29
