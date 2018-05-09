@@ -611,11 +611,11 @@ public:
 
 
 	void jump(){
-		if (is_colliding_bottom()){
+		//if (is_colliding_bottom()){
 			velocity[1] = 4.5f;
 			move_y(0.1f);
 			jumping = true;
-		}
+		//}
 	}
 
 	void flip_x_direction(){
